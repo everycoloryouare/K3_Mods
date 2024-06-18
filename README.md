@@ -44,7 +44,7 @@ https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extru
 
 **Ruiqimao's 8x 221-412 Wago Mount**
 
-Images: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1221853746556960778), STL: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1221858017935495259)<br>
+Images: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1221853746556960778), STL: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1221894934961979462)<br>
 <br>
 
 **Karabox's eBox**
