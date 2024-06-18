@@ -44,7 +44,7 @@ https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extru
 
 **Ruiqimao's 8x 221-412 Wago Mount**
 
-Pictures: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1221853746556960778), STL: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1221858017935495259)<br>
+Images: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1221853746556960778), STL: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1221858017935495259)<br>
 <br>
 
 **Karabox's eBox**
@@ -83,4 +83,4 @@ STLs: [Discord](https://discord.com/channels/641407187004030997/9106477345062584
 
 **Newtwo's Chonk K3 Frame**
 
-Pictures: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1239699476461916331), DXFs and BOM: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1244371404867244033)
+Images: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1239699476461916331), DXFs and BOM: [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1244371404867244033)
