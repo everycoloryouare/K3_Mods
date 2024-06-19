@@ -12,7 +12,7 @@ A redesign of the K3 tophat that replaces the printed dowel pins (which often ne
 https://github.com/everycoloryouare/Annex-Engineering_User_Mods/tree/main/Printers/K3/everycoloryouare-M5_Tophat<br>
 <br>
 
-**Wago mounts for the Heated Bed**<br>
+**Wago mount for the Heated Bed**<br>
 A small Wago mount that holds six of the two conductor Wagos for connecting the bed wires, thermistor, a ground wire, and an inline thermal fuse. The Wago mount fits under the bed between the rear bed mount and the (small) corner brackets. An eight Wago mount is listed below if more connections are desired.
 
 https://github.com/everycoloryouare/Annex-Engineering_User_Mods/tree/main/Printers/K3/everycoloryouare-Wago_Bed_Mount<br>
