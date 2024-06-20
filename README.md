@@ -12,7 +12,7 @@ A redesign of the K3 tophat that replaces the printed dowel pins (which often ne
 https://github.com/everycoloryouare/Annex-Engineering_User_Mods/tree/main/Printers/K3/everycoloryouare-M5_Tophat<br>
 <br>
 
-**Wago mount for the Heated Bed**<br>
+**Wago Mount for the Heated Bed**<br>
 A small Wago mount that holds six of the two conductor Wagos for connecting the bed wires, thermistor, a ground wire, and an inline thermal fuse. The Wago mount fits under the bed between the rear bed mount and the (small) corner brackets. An eight Wago mount is listed below if more connections are desired.
 
 https://github.com/everycoloryouare/Annex-Engineering_User_Mods/tree/main/Printers/K3/everycoloryouare-Wago_Bed_Mount<br>
@@ -30,21 +30,21 @@ Alternate electronic box panels that are dual tone and slightly thinner for a sl
 https://github.com/everycoloryouare/Annex-Engineering_User_Mods/tree/main/Printers/K3/everycoloryouare-Electronic_Box<br>
 <br>
 
-**Sherpa Micro with fixed idler and integrated PTFE collet**<br>
+**Sherpa Micro with Fixed Idler and Integrated PTFE Collet**<br>
 A modified (RIDGA compatible) Sherpa Micro extruder that is based on the fixed idler Micro from the official github but has an integrated PTFE collet. A non fixed idler version with an integrated PTFE collet by Ryan G. is listed below. Note that for most K3 builds you will want a mirrored Sherpa Micro, which can be done in the slicer.  
 
 https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Micro/Extruder_Mods/everycoloryouare-Fixed_Idler_Micro_and_Collet<br>
 <br>
 
-# Userful mods by others:
+# Userful Mods By Others:
 
-**Ryan G's Sherpa Micro with integrated PTFE collet and filament sensor**<br>
+**Ryan G's Sherpa Micro with iIntegrated PTFE Collet and Filament Sensor**<br>
 A (RIDGA compatible) Sherpa Micro extruder with integrated PTFE collet and filament sensor, useful for MMUs such as Tradrack.
 
 [Github](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Micro/Extruder_Mods/Ryan_G-Idler_Filament_Sensor_and_Collet)<br>
 <br>
 
-**TurtleCrawler's Kraken controller bracket**<br>
+**TurtleCrawler's Kraken Controller Bracket**<br>
 Replaces the default universal controller bracket with a version that is large enough for the Kraken board.
 
 [Discord](https://discord.com/channels/893696029512302602/1019365375865012266/1229767868472889344)<br>
@@ -98,7 +98,7 @@ Laser Cut Plates<br>
 <br>
 
 **Ryan G's Carriage Adapter for Dragon UHF Hotend**<br>
-Printed parts that allow use of the Dragon UHF Hotend with or without the nozzle extender instead of the stock Dragon HF hotend.
+Printed parts that allow use of the Dragon UHF Hotend with or without the nozzle extender instead of the stock Dragon HF hotend. Might require the lower Z idler (see "Cbon's 3628 Fan Ducts and Alternate Z Idler for Chube" below) instead of the low Z idler in the main repo.
 
 [Discord](https://discord.com/channels/641407187004030997/1139276599645179946/1139276599645179946)<br>
 <br>
