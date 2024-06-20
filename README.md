@@ -103,6 +103,12 @@ Printed parts that allow use of the Dragon UHF Hotend with or without the nozzle
 [Discord](https://discord.com/channels/641407187004030997/1139276599645179946/1139276599645179946)<br>
 <br>
 
+**Ryan G's Carriage Adapter for Rapido UHF Hotend**<br>
+Printed parts that allow use of the Rapido 1 or 2 UHF Hotend. Might require the lower Z idler (see "Cbon's 3628 Fan Ducts and Alternate Z Idler for Chube" below) instead of the low Z idler in the main repo. Might work with Rapido 2F?<br>
+
+[Discord](https://discord.com/channels/641407187004030997/1146449573187952802/1205745937197043832)<br>
+<br>
+
 **Chube High Flow Hotend**<br>
 A very high flow and ridgid hotend designed, pricey but very high flow. Currently only compatible on the K3 with the metal toolhead plate above.
 
