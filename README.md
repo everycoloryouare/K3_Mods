@@ -36,7 +36,40 @@ A modified (RIDGA compatible) Sherpa Micro extruder that is based on the fixed i
 https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Micro/Extruder_Mods/everycoloryouare-Fixed_Idler_Micro_and_Collet<br>
 <br>
 
+**XY Gantry Pulley/Idler Alignment Tool**<br>
+The stock instructions for selecting the shim placement for the idler and pulley stacks on the XY gantry assumes very specific dimensions for the motion pieces. Fabreeko later added their own instructions for the pulleys and idlers they included. An alternate method is to use a small printed tool that allows you to determine your own shims stacks for any sized pulley or idler by manually adding shims until the indexed belt locations on the printed tool align with the pulleys and idlers.
+
+[Github](https://github.com/everycoloryouare/Annex-Engineering_User_Mods/tree/main/Printers/K3/everycoloryouare-Alignment_Tools/XY_Pulley_Shim_Tool)<br>
+<br>
+
+# Userful Resources
+
+**Annex Example Klipper Configurations**<br>
+Due to license related disagreements with mainline Klipper devs, Annex decided to "officially" move to using Danger Klipper as the recommended control software. Normal Klipper still works fine for the most part (see below), but the Klipper configs for the various Annex Printers were moved to its own repository so the licenses could be better separated (my personal interpretation of the move).<br>
+
+[Github](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/tree/main/Klipper_and_Klipper_Derivatives/K3)<br>
+<br>
+
+**Quickdraw and Dockable Probe Module**<br>
+For a while Annex had maintained an independent dockable_probe.py module for use with the Quickdraw z probe option which is the default option on the K3. Unfortunately, Klipper has never fully embraced the module and has refused to include it in mainline and eventually introduced changes that broke the original module. If you wish to use Quickdraw you have a couple options, 1) Use a slightly older version of Klipper and the dockable_probe module, 2) Switch to Danger Klipper which has native dockable probe support among many other new features, or 3) use the macros based approach used by Klicky and similar probes.
+
+[Dockable_Probe Github](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/tree/main/Klipper_and_Klipper_Derivatives/Quickdraw_Probe)<br>
+[Danger Klipper Github](https://github.com/DangerKlippers/danger-klipper)<br>
+[Klicky Github](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros)<br>
+<br>
+
+**K3rabiner and Carabiner Distribution Board Pinouts**<br>
+The pinout information for the K3 specific toolhead board (K3rabiner) and the Carabiner Distribution board are a bit scattered. The current locations of the board info including pinouts and current ratings are located in the following locations.
+
+[K3rabiner Github](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/main/Release_1_2/PCBs/K3rabiner), [Carabiner Distributor Github](https://github.com/Annex-Engineering/Annex_Engineering_PCBs/tree/master/carabiner-series-toolboard/carabiner-distributor)
+
 # Userful Mods By Others:
+
+**Przy's Modified Z Motor Mount Brace**<br>
+Depending on material shrinkage and other printer tolerance factors, some users had trouble getting the bolt holes on the Z Motor Mount Brace (that connects the front two motors mounts to the middle extrusion) to line up properly. A modified brace has been created that has slotted bolt holes to allow for easier alignment. This modification will eventually make it into the final 1.2 release according to Przy.
+
+[Discord](https://discord.com/channels/641407187004030997/1183429817429921883/1185665144328568902)<br>
+<br>
 
 **Ryan G's Sherpa Micro with iIntegrated PTFE Collet and Filament Sensor**<br>
 A (RIDGA compatible) Sherpa Micro extruder with integrated PTFE collet and filament sensor, useful for MMUs such as Tradrack.
