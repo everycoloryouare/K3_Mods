@@ -63,7 +63,7 @@ The pinout information for the K3 specific toolhead board (K3rabiner) and the Ca
 
 [K3rabiner Github](https://github.com/Annex-Engineering/Gasherbrum-K3/tree/main/Release_1_2/PCBs/K3rabiner), [Carabiner Distributor Github](https://github.com/Annex-Engineering/Annex_Engineering_PCBs/tree/master/carabiner-series-toolboard/carabiner-distributor)
 
-# Userful Mods By Others:
+# Useful Mods By Others:
 
 **Przy's Modified Z Motor Mount Brace**<br>
 Depending on material shrinkage and other printer tolerance factors, some users had trouble getting the bolt holes on the Z Motor Mount Brace (that connects the front two motors mounts to the middle extrusion) to line up properly. A modified brace has been created that has slotted bolt holes to allow for easier alignment. This modification will eventually make it into the final 1.2 release according to Przy.
