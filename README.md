@@ -102,11 +102,13 @@ An alternate tophat that uses two top panels and an interlocking design to reduc
 <br>
 
 **7.9 inch Waveshare Screen Electronic Box Mount**<br>
-A modified electronic box panel that allows mounting of a 7.9 inch Waveshare Screen on the side of the electronic box (vertically). This is typically done in a "sidepack" configuration of the electronic box instead of a backpack. Requires modifications to one of the laser cut panels.
+A modified electronic box panel that allows mounting of a 7.9 inch Waveshare Screen on the side of the electronic box (vertically). This is typically done in a "sidepack" configuration of the electronic box instead of a backpack. Requires modifications to the cut panel or a new modified panel to be printed or cut.
 
 HDMI Screen by Minsekt: [Github](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/K3/Minsekt-K3_WaveshareScreen)<br>
 Non-HDMI Screen by Rock2k11: [Printables](https://www.printables.com/@Rock2k11_248727)<br>
+Modified eBox Panel by OB1Kenobi: [Discord](https://discord.com/channels/641407187004030997/1180948550843117720/1185442358746157077)<br>
 <br>
+
 
 **Ryan G's Backpack Camera**<br>
 A mount for using the large grommet feedthrough hole for a camera facing the build plate. Not the best angle but keeps the camera out of the hot chamber. Requires the PTFE and umbilical for the toolhead to be routed through one of the small grommet feedthroughs.
