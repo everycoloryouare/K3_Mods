@@ -209,7 +209,7 @@ The stock instructions for selecting the shim placement for the idler and pulley
 ## Userful Resources
 
 **Annex Example Klipper Configurations**<br>
-Due to license related disagreements with mainline Klipper devs, Annex decided to "officially" move to using Danger Klipper as the recommended control software. Normal Klipper still works fine for the most part (see below), but the Klipper configs for the various Annex Printers were moved to its own repository so the licenses could be better separated (my personal interpretation of the move).<br>
+Due to license related disagreements with mainline Klipper devs, Annex decided to "officially" move to using Kalico (Danger Klipper) as the recommended control software. Mainline Klipper still works fine for the most part (except for dockable probes, see below), but the Klipper configs for the various Annex Printers were moved to its own repository so the licenses could be better separated (my personal interpretation of the move).<br>
 
 [Github](https://github.com/Annex-Engineering/ANNEX-Printer-Firmware/tree/main/Klipper_and_Klipper_Derivatives/K3)<br>
 <br>
