@@ -58,6 +58,12 @@ An entire electronic box redesign with many unique electronic mounting brackets 
 [Github](https://github.com/karabox/MISC/tree/main/Annex%20Mods/K3%20eBox%20mod)<br>
 <br>
 
+**Crispy's 350/200 Dual UHP Power Supply Mount**<br>
+Brackets for mount both a 350 Watt and a 200 Watt Meanwell UHP power supply to the electronic box extrusion.
+
+[Discord](https://discord.com/channels/641407187004030997/1196595969127628800/1208526187522162709)<br>
+<br>
+
 **TurtleCrawler's Kraken Controller Bracket**<br>
 A modified version of the default universal controller bracket that is large enough for the Kraken control board.
 
@@ -127,9 +133,15 @@ A very high flow and ridgid hotend designed, pricey but very high flow. Currentl
 <br>
 
 **Cbon's 3628 Fan Ducts and Alternate Z Idler**<br>
-Printed parts for using extremely high airflow 3628 fars with UHF hotends and Chube, and a lowered rear Z idler to make sure the entire build area is still usable without the fans colliding with the idler.
+Printed parts for using extremely high airflow 3628 fans with UHF hotends and Chube, and a lowered rear Z idler to make sure the entire build area is still usable without the fans colliding with the idler.
 
 STLs: [Discord](https://discord.com/channels/641407187004030997/910647734506258442/1234572830499143722), Fans: [Digikey.com](https://www.digikey.com/en/products/detail/delta-electronics/FFB03612EHNYCL/6580720)<br>
+<br>
+
+**StackingDeezsLayers' SLM 3628 Fan Ducts**<br>
+Another variation of the ducts for the 3628 fans, Chube, and beacon but with gemomtry optimized for SLM printing only.
+
+[Github](https://github.com/stackingdeezlayers/Annex-K3-SLM-Toolhead)<br>
 <br>
 
 ## Alternate Probes
@@ -142,10 +154,16 @@ The original 3D printing eddy current scanning probe with a built in acceleromet
 
 ## Structural Mods
 
-**EveryColorYouAre's Fixed K3rabiner Sherpa Micro Carriage
-The new K3rabiner compatible carriage plate that supports the Sherpa Micro extruder has several issues that this fixed version fixes. Also included is a slightly modified mirrored Sherp Micro front plate to match the fixed plate.
+**EveryColorYouAre's Fixed K3rabiner Sherpa Micro Carriage**<br>
+The K3rabiner compatible carriage plate that supports the Sherpa Micro extruder has several issues that this fixed version fixes. Also included is a slightly modified mirrored Sherp Micro front plate to match the fixed plate.
 
 [Github](https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Printers/K3/everycoloryouare-K3rabiner_Micro_Plate)<br>
+<br>
+
+**Przy's Metal XY Bearing Mounts**<br>
+Machined aluminum bearing mounts that replace the upper and lower printed XY bearing mounts. Requires new endstops which are provided as STLs on the store page.
+
+[Przee.com](https://przee.com/)<br>
 <br>
 
 **MathematicaPotato's Metal Toolhead**<br>
